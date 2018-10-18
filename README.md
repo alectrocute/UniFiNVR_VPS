@@ -3,7 +3,7 @@ install UniFi NVR on a Linux-based VPS (Linode, DigitalOcean, Vultr, etc.)
 
 ## Pre-install
 
-NOTE: Currently tested on Ubuntu 16.04 LTS and Debian for Linode.
+NOTE: Currently tested on Ubuntu 16.04 LTS and Debian hosted on Linode.
 
 Run install.sh!
 
