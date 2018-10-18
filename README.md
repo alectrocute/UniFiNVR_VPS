@@ -2,3 +2,11 @@
 install UniFi NVR on a Linux-based VPS (Linode, DigitalOcean, Vultr, etc.)
 
 Currently tested on Ubuntu 16.04 LTS and Debian for Linode.
+
+## Post-install
+
+If the status shows it's running with no failures, it'll be available via [your server ip]:7443.
+
+Setup your NVR and generate/copy your camera adoption token.
+
+On your local network, go to your camera(s) IP address(es) in your browser and configure them to point to [your server ip]. It'll automatically assume port 7443 in its absence, so no need to include a port.
