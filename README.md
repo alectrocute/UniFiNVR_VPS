@@ -1,4 +1,4 @@
-# UniFiNVR_VPS
+# UniFiNVR cloud VPS Install Script
 install UniFi NVR on a Linux-based VPS (Linode, DigitalOcean, Vultr, etc.)
 
 ## Pre-install
